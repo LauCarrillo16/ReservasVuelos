@@ -1,0 +1,6 @@
+com\mycompany\reservadevuelos\Reserva.class
+com\mycompany\reservadevuelos\ReservaDeVuelos.class
+com\mycompany\reservadevuelos\Asiento.class
+com\mycompany\reservadevuelos\Vuelo.class
+com\mycompany\reservadevuelos\VueloInternacional.class
+com\mycompany\reservadevuelos\VueloNacional.class
